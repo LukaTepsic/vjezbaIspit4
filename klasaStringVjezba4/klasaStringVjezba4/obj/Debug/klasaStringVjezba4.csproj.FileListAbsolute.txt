@@ -1,0 +1,7 @@
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\bin\Debug\klasaStringVjezba4.exe.config
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\bin\Debug\klasaStringVjezba4.exe
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\bin\Debug\klasaStringVjezba4.pdb
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\obj\Debug\klasaStringVjezba4.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\obj\Debug\klasaStringVjezba4.csproj.CoreCompileInputs.cache
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\obj\Debug\klasaStringVjezba4.exe
+C:\Users\Tepob\source\repos\klasaStringVjezba4\klasaStringVjezba4\obj\Debug\klasaStringVjezba4.pdb
